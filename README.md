@@ -6,4 +6,4 @@ Você pode copiar e redistribuir o material em qualquer formato. Você também p
 Em caso de dúvida, escreva para "dhemerson.conciani@unesp.br"
 
 #### Desenvolvido por: 
-Dhemerson Conciani , Paulo Ruffino e Denise Zanchetta 
+Dhemerson Conciani , Denise Zanchetta e Paulo Ruffino
