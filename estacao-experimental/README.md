@@ -1,1 +1,15 @@
+## Repositório de dados vetoriais da Estação Experimental de Itirapina
+### Parâmetros
+* Última atualização: Janeiro de 2019
+* Projeção: SIRGAS 2000 / UTM 23S
+* Unidade: Metros
 
+#### Para informações detalhadas consulte o informativo técnico (PDF)
+
+### Condições de uso
+Você pode copiar e redistribuir o material em qualquer formato. Você também pode adaptar, transformar e criar outros conteúdos a partir do material, para qualquer fim. Você deve citar este repositório, prover um link para o conteúdo original e indicar se mudanças foram feitas. Produtos resultantes da aplicação deste conteúdo devem ser divulgados sobre as mesmas condições. 
+ 
+Em caso de dúvida, escreva para "dhemerson.conciani@unesp.br"
+
+#### Desenvolvido por: 
+Dhemerson Conciani , Paulo Ruffino e Denise Zanchetta 
